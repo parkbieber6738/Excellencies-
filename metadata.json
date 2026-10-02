@@ -1,0 +1,6 @@
+{
+  "name": "Lexicon C1/C2 & DU Admission Dictionary",
+  "description": "Advanced C1/C2 & University Admission English-Bangla Dictionary with phonetic search, audio pronunciations, contextual sentence usage, synonyms/antonyms, daily challenges, and offline DU/IBA preparation modules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
